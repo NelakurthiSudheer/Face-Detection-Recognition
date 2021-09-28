@@ -8,5 +8,6 @@ Step-3 : Now run the file face dataset .After sometime,i will captures images of
 Step-4: The moment when face datset file got executed it will ask user to enter the id .Provide the id according to the array index values and change the name in the code according to the index value. if you have given the id as 1 ,enter your name in the 1st index position in face training file.<br>
 Step-5: Now run the face training file .<br>
 Step-6: After successful compilation of face training module run the Face recognition file.<br><br>
- That's it the if the user present in the dataset the system will recognize him displaying the name .Otherwise it will recognize him as Unknown person
+ That's it the if the user present in the dataset the system will recognize him displaying the name .Otherwise it will recognize him as Unknown person<br><br>
  
+<p>Note: Make sure that you install all the dependencies.</p>
