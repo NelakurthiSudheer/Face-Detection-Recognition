@@ -10,4 +10,4 @@ Step-5: Now run the face training file .<br>
 Step-6: After successful compilation of face training module run the Face recognition file.<br><br>
  That's it the if the user present in the dataset the system will recognize him displaying the name .Otherwise it will recognize him as Unknown person<br><br>
  
-<p style:"color:Red">Note: Make sure that you install all the dependencies.</style></p>
+<p><b><i>Note: Make sure that you install all the dependencies.</i></b></p>
